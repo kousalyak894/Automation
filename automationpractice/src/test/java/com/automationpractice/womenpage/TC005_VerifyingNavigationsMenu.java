@@ -31,6 +31,7 @@ public class TC005_VerifyingNavigationsMenu extends Testbase{
 	@AfterTest     
 	public void close(){
 		driver.close();
+		driver.quit();
 	}
 
 }
