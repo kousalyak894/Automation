@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression Test">
+<listeners>
+<listener class-name="com.automationpractice.customListener.Listener"></listener>
+</listeners>
+<test name="TC003_VerifyingRegistrationPage">
+<classes>
+<class name="com.automationpractice.homepage.TC003_VerifyingRegistrationPage">
+</class>
+</classes>
+</test>
+</suite>

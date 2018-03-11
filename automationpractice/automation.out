@@ -1,0 +1,905 @@
+2018-02-22 12:02:27 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-22 12:02:27 INFO  Homepage:36 - clicked on signin[[ChromeDriver: chrome on XP (77fd731d2ff437bbca539889e7ec43be)] -> xpath: //a[@class='login']]
+2018-02-22 12:02:29 INFO  Homepage:38 - This is the heading for users[[ChromeDriver: chrome on XP (77fd731d2ff437bbca539889e7ec43be)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-22 12:02:29 INFO  Homepage:44 - Entering user name[[ChromeDriver: chrome on XP (77fd731d2ff437bbca539889e7ec43be)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-22 12:02:29 INFO  Homepage:46 - Entering user password[[ChromeDriver: chrome on XP (77fd731d2ff437bbca539889e7ec43be)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-22 12:02:29 INFO  Homepage:48 - clicking on login [[ChromeDriver: chrome on XP (77fd731d2ff437bbca539889e7ec43be)] -> xpath: //button[@type='submit']]
+2018-02-22 12:02:31 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-22 12:02:31 INFO  TC001_verifyingLoginpageInvalidCredentials:35 - ........closing the browser............
+2018-02-22 12:50:20 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-22 12:50:20 INFO  Homepage:36 - clicked on signin[[ChromeDriver: chrome on XP (bc24bfcd5b47fd75179d331198e54905)] -> xpath: //a[@class='login']]
+2018-02-22 12:50:21 INFO  Homepage:38 - This is the heading for users[[ChromeDriver: chrome on XP (bc24bfcd5b47fd75179d331198e54905)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-22 12:50:21 INFO  Homepage:44 - Entering user name[[ChromeDriver: chrome on XP (bc24bfcd5b47fd75179d331198e54905)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-22 12:50:22 INFO  Homepage:46 - Entering user password[[ChromeDriver: chrome on XP (bc24bfcd5b47fd75179d331198e54905)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-22 12:50:22 INFO  Homepage:48 - clicking on login [[ChromeDriver: chrome on XP (bc24bfcd5b47fd75179d331198e54905)] -> xpath: //button[@type='submit']]
+2018-02-22 12:50:23 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-22 12:50:23 INFO  TC001_verifyingLoginpageInvalidCredentials:35 - ........closing the browser............
+2018-02-22 12:50:48 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-22 12:50:48 INFO  Homepage:36 - clicked on signin[[ChromeDriver: chrome on XP (9ec20389c7455cabc1267d60ce5bf6cc)] -> xpath: //a[@class='login']]
+2018-02-22 12:50:51 INFO  Homepage:38 - This is the heading for users[[ChromeDriver: chrome on XP (9ec20389c7455cabc1267d60ce5bf6cc)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-22 12:50:51 INFO  Homepage:44 - Entering user name[[ChromeDriver: chrome on XP (9ec20389c7455cabc1267d60ce5bf6cc)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-22 12:50:51 INFO  Homepage:46 - Entering user password[[ChromeDriver: chrome on XP (9ec20389c7455cabc1267d60ce5bf6cc)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-22 12:50:51 INFO  Homepage:48 - clicking on login [[ChromeDriver: chrome on XP (9ec20389c7455cabc1267d60ce5bf6cc)] -> xpath: //button[@type='submit']]
+2018-02-22 12:50:53 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-22 12:50:53 INFO  TC001_verifyingLoginpageInvalidCredentials:35 - ........closing the browser............
+2018-02-22 13:00:38 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-22 13:00:38 INFO  Homepage:39 - clicked on signin[[ChromeDriver: chrome on XP (fa6cb53ed981e55a419bbadb967c01f5)] -> xpath: //a[@class='login']]
+2018-02-22 13:00:40 INFO  Homepage:41 - This is the heading for users[[ChromeDriver: chrome on XP (fa6cb53ed981e55a419bbadb967c01f5)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-22 13:00:40 INFO  Homepage:47 - Entering user name[[ChromeDriver: chrome on XP (fa6cb53ed981e55a419bbadb967c01f5)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-22 13:00:41 INFO  Homepage:49 - Entering user password[[ChromeDriver: chrome on XP (fa6cb53ed981e55a419bbadb967c01f5)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-22 13:00:41 INFO  Homepage:51 - clicking on login [[ChromeDriver: chrome on XP (fa6cb53ed981e55a419bbadb967c01f5)] -> xpath: //button[@type='submit']]
+2018-02-22 13:00:42 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-22 13:01:52 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-22 13:01:53 INFO  Homepage:39 - clicked on signin[[ChromeDriver: chrome on XP (40bf07d11ac1c504184106d2f807d984)] -> xpath: //a[@class='login']]
+2018-02-22 13:01:55 INFO  Homepage:41 - This is the heading for users[[ChromeDriver: chrome on XP (40bf07d11ac1c504184106d2f807d984)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-22 13:01:55 INFO  Homepage:47 - Entering user name[[ChromeDriver: chrome on XP (40bf07d11ac1c504184106d2f807d984)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-22 13:01:55 INFO  Homepage:49 - Entering user password[[ChromeDriver: chrome on XP (40bf07d11ac1c504184106d2f807d984)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-22 13:01:55 INFO  Homepage:51 - clicking on login [[ChromeDriver: chrome on XP (40bf07d11ac1c504184106d2f807d984)] -> xpath: //button[@type='submit']]
+2018-02-22 13:01:56 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-22 13:42:43 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-22 13:42:43 INFO  Homepage:39 - clicked on signin[[ChromeDriver: chrome on XP (967a72b065ee98aadc68005db0bbcce7)] -> xpath: //a[@class='login']]
+2018-02-22 13:42:45 INFO  Homepage:41 - This is the heading for users[[ChromeDriver: chrome on XP (967a72b065ee98aadc68005db0bbcce7)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-22 13:42:45 INFO  Homepage:47 - Entering user name[[ChromeDriver: chrome on XP (967a72b065ee98aadc68005db0bbcce7)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-22 13:42:45 INFO  Homepage:49 - Entering user password[[ChromeDriver: chrome on XP (967a72b065ee98aadc68005db0bbcce7)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-22 13:42:45 INFO  Homepage:51 - clicking on login [[ChromeDriver: chrome on XP (967a72b065ee98aadc68005db0bbcce7)] -> xpath: //button[@type='submit']]
+2018-02-22 13:42:46 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-22 13:45:44 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-22 13:45:44 INFO  Homepage:39 - clicked on signin[[ChromeDriver: chrome on XP (ce26f26dc7a9ca93b52b96adc9ba92d5)] -> xpath: //a[@class='login']]
+2018-02-22 13:45:46 INFO  Homepage:41 - This is the heading for users[[ChromeDriver: chrome on XP (ce26f26dc7a9ca93b52b96adc9ba92d5)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-22 13:45:46 INFO  Homepage:47 - Entering user name[[ChromeDriver: chrome on XP (ce26f26dc7a9ca93b52b96adc9ba92d5)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-22 13:45:47 INFO  Homepage:49 - Entering user password[[ChromeDriver: chrome on XP (ce26f26dc7a9ca93b52b96adc9ba92d5)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-22 13:45:47 INFO  Homepage:51 - clicking on login [[ChromeDriver: chrome on XP (ce26f26dc7a9ca93b52b96adc9ba92d5)] -> xpath: //button[@type='submit']]
+2018-02-22 13:45:48 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-22 13:57:19 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-22 13:57:19 INFO  Homepage:39 - clicked on signin[[ChromeDriver: chrome on XP (07f2c4a67f07b5b58063e5bda02a2339)] -> xpath: //a[@class='login']]
+2018-02-22 13:57:20 INFO  Homepage:41 - This is the heading for users[[ChromeDriver: chrome on XP (07f2c4a67f07b5b58063e5bda02a2339)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-22 13:57:21 INFO  Homepage:47 - Entering user name[[ChromeDriver: chrome on XP (07f2c4a67f07b5b58063e5bda02a2339)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-22 13:57:21 INFO  Homepage:49 - Entering user password[[ChromeDriver: chrome on XP (07f2c4a67f07b5b58063e5bda02a2339)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-22 13:57:21 INFO  Homepage:51 - clicking on login [[ChromeDriver: chrome on XP (07f2c4a67f07b5b58063e5bda02a2339)] -> xpath: //button[@type='submit']]
+2018-02-22 13:57:22 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-22 13:58:13 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-22 13:58:13 INFO  Homepage:39 - clicked on signin[[ChromeDriver: chrome on XP (b59f5cfac631da5a13d61bc512efa476)] -> xpath: //a[@class='login']]
+2018-02-22 13:58:15 INFO  Homepage:41 - This is the heading for users[[ChromeDriver: chrome on XP (b59f5cfac631da5a13d61bc512efa476)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-22 13:58:15 INFO  Homepage:47 - Entering user name[[ChromeDriver: chrome on XP (b59f5cfac631da5a13d61bc512efa476)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-22 13:58:15 INFO  Homepage:49 - Entering user password[[ChromeDriver: chrome on XP (b59f5cfac631da5a13d61bc512efa476)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-22 13:58:15 INFO  Homepage:51 - clicking on login [[ChromeDriver: chrome on XP (b59f5cfac631da5a13d61bc512efa476)] -> xpath: //button[@type='submit']]
+2018-02-22 13:58:16 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-22 14:06:05 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-22 14:06:05 INFO  Homepage:39 - clicked on signin[[ChromeDriver: chrome on XP (b05811aa9358bb32806149366f55ed02)] -> xpath: //a[@class='login']]
+2018-02-22 14:06:08 INFO  Homepage:41 - This is the heading for users[[ChromeDriver: chrome on XP (b05811aa9358bb32806149366f55ed02)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-22 14:06:08 INFO  Homepage:47 - Entering user name[[ChromeDriver: chrome on XP (b05811aa9358bb32806149366f55ed02)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-22 14:06:08 INFO  Homepage:49 - Entering user password[[ChromeDriver: chrome on XP (b05811aa9358bb32806149366f55ed02)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-22 14:06:08 INFO  Homepage:51 - clicking on login [[ChromeDriver: chrome on XP (b05811aa9358bb32806149366f55ed02)] -> xpath: //button[@type='submit']]
+2018-02-22 14:06:09 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-22 14:08:36 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-22 14:08:37 INFO  Homepage:39 - clicked on signin[[ChromeDriver: chrome on XP (4e656b39080f784635a5a78dc5cea86a)] -> xpath: //a[@class='login']]
+2018-02-22 14:08:39 INFO  Homepage:41 - This is the heading for users[[ChromeDriver: chrome on XP (4e656b39080f784635a5a78dc5cea86a)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-22 14:08:39 INFO  Homepage:47 - Entering user name[[ChromeDriver: chrome on XP (4e656b39080f784635a5a78dc5cea86a)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-22 14:08:39 INFO  Homepage:49 - Entering user password[[ChromeDriver: chrome on XP (4e656b39080f784635a5a78dc5cea86a)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-22 14:08:39 INFO  Homepage:51 - clicking on login [[ChromeDriver: chrome on XP (4e656b39080f784635a5a78dc5cea86a)] -> xpath: //button[@type='submit']]
+2018-02-22 14:08:40 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-22 14:08:40 INFO  TC001_verifyingLoginpageInvalidCredentials:40 - ........closing the browser............
+2018-02-22 14:11:32 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-22 14:11:32 INFO  Homepage:39 - clicked on signin[[ChromeDriver: chrome on XP (7758fb0b6aa0494f32a23ce643166c9f)] -> xpath: //a[@class='login']]
+2018-02-22 14:11:34 INFO  Homepage:41 - This is the heading for users[[ChromeDriver: chrome on XP (7758fb0b6aa0494f32a23ce643166c9f)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-22 14:11:35 INFO  Homepage:47 - Entering user name[[ChromeDriver: chrome on XP (7758fb0b6aa0494f32a23ce643166c9f)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-22 14:11:35 INFO  Homepage:49 - Entering user password[[ChromeDriver: chrome on XP (7758fb0b6aa0494f32a23ce643166c9f)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-22 14:11:35 INFO  Homepage:51 - clicking on login [[ChromeDriver: chrome on XP (7758fb0b6aa0494f32a23ce643166c9f)] -> xpath: //button[@type='submit']]
+2018-02-22 14:11:36 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-22 14:11:36 INFO  TC001_verifyingLoginpageInvalidCredentials:36 - ........closing the browser............
+2018-02-22 14:14:41 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-22 14:14:41 INFO  Homepage:39 - clicked on signin[[ChromeDriver: chrome on XP (4d487ac096a26ee5d89d3952b10292ed)] -> xpath: //a[@class='login']]
+2018-02-22 14:14:44 INFO  Homepage:41 - This is the heading for users[[ChromeDriver: chrome on XP (4d487ac096a26ee5d89d3952b10292ed)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-22 14:14:44 INFO  Homepage:47 - Entering user name[[ChromeDriver: chrome on XP (4d487ac096a26ee5d89d3952b10292ed)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-22 14:14:44 INFO  Homepage:49 - Entering user password[[ChromeDriver: chrome on XP (4d487ac096a26ee5d89d3952b10292ed)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-22 14:14:44 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-22 14:14:44 INFO  TC001_verifyingLoginpageInvalidCredentials:36 - ........closing the browser............
+2018-02-22 14:18:18 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-22 14:18:18 INFO  Homepage:39 - clicked on signin[[ChromeDriver: chrome on XP (ad8da657254f8ab44b5451a03b80c6f3)] -> xpath: //a[@class='login']]
+2018-02-22 14:18:21 INFO  Homepage:41 - This is the heading for users[[ChromeDriver: chrome on XP (ad8da657254f8ab44b5451a03b80c6f3)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-22 14:18:21 INFO  Homepage:47 - Entering user name[[ChromeDriver: chrome on XP (ad8da657254f8ab44b5451a03b80c6f3)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-22 14:18:21 INFO  Homepage:49 - Entering user password[[ChromeDriver: chrome on XP (ad8da657254f8ab44b5451a03b80c6f3)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-22 14:18:21 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-22 14:21:37 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-22 14:21:37 INFO  Homepage:39 - clicked on signin[[ChromeDriver: chrome on XP (08d1bcac36fac03d9ffc32f638c07110)] -> xpath: //a[@class='login']]
+2018-02-22 14:21:38 INFO  Homepage:41 - This is the heading for users[[ChromeDriver: chrome on XP (08d1bcac36fac03d9ffc32f638c07110)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-22 14:21:38 INFO  Homepage:47 - Entering user name[[ChromeDriver: chrome on XP (08d1bcac36fac03d9ffc32f638c07110)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-22 14:21:39 INFO  Homepage:49 - Entering user password[[ChromeDriver: chrome on XP (08d1bcac36fac03d9ffc32f638c07110)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-22 14:21:39 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-22 14:22:24 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-22 14:22:24 INFO  Homepage:39 - clicked on signin[[ChromeDriver: chrome on XP (608607b9ebf91fd79a651b0ead002a87)] -> xpath: //a[@class='login']]
+2018-02-22 14:22:27 INFO  Homepage:41 - This is the heading for users[[ChromeDriver: chrome on XP (608607b9ebf91fd79a651b0ead002a87)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-22 14:22:27 INFO  Homepage:47 - Entering user name[[ChromeDriver: chrome on XP (608607b9ebf91fd79a651b0ead002a87)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-22 14:22:27 INFO  Homepage:49 - Entering user password[[ChromeDriver: chrome on XP (608607b9ebf91fd79a651b0ead002a87)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-22 14:22:27 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-22 14:22:28 INFO  TC001_verifyingLoginpageInvalidCredentials:35 - entered mailid
+2018-02-22 14:23:16 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-22 14:23:16 INFO  Homepage:39 - clicked on signin[[ChromeDriver: chrome on XP (c7353b31fe2156ec5a904f5993542867)] -> xpath: //a[@class='login']]
+2018-02-22 14:23:18 INFO  Homepage:41 - This is the heading for users[[ChromeDriver: chrome on XP (c7353b31fe2156ec5a904f5993542867)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-22 14:23:18 INFO  Homepage:47 - Entering user name[[ChromeDriver: chrome on XP (c7353b31fe2156ec5a904f5993542867)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-22 14:23:18 INFO  Homepage:49 - Entering user password[[ChromeDriver: chrome on XP (c7353b31fe2156ec5a904f5993542867)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-22 14:23:18 INFO  Homepage:51 - clicking on login [[ChromeDriver: chrome on XP (c7353b31fe2156ec5a904f5993542867)] -> xpath: //button[@type='submit']]
+2018-02-22 14:23:19 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-22 14:29:44 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-22 14:29:44 INFO  Homepage:42 - clicked on signin[[ChromeDriver: chrome on XP (7e6de910ecb2222004e46c495374cd21)] -> xpath: //a[@class='login']]
+2018-02-22 14:29:46 INFO  Homepage:44 - This is the heading for users[[ChromeDriver: chrome on XP (7e6de910ecb2222004e46c495374cd21)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-22 14:29:47 INFO  Homepage:50 - Entering user name[[ChromeDriver: chrome on XP (7e6de910ecb2222004e46c495374cd21)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-22 14:29:47 INFO  Homepage:52 - Entering user password[[ChromeDriver: chrome on XP (7e6de910ecb2222004e46c495374cd21)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-22 14:29:47 INFO  Homepage:54 - clicking on login [[ChromeDriver: chrome on XP (7e6de910ecb2222004e46c495374cd21)] -> xpath: //button[@type='submit']]
+2018-02-22 14:29:48 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-22 14:30:18 INFO  TC001_verifyingLoginpageInvalidCredentials:41 - ........closing the browser............
+2018-02-22 14:32:22 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-22 14:32:22 INFO  Homepage:44 - clicked on signin[[ChromeDriver: chrome on XP (1b9847d6a495e439dce4226572f6aea7)] -> xpath: //a[@class='login']]
+2018-02-22 14:32:24 INFO  Homepage:46 - This is the heading for users[[ChromeDriver: chrome on XP (1b9847d6a495e439dce4226572f6aea7)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-22 14:32:24 INFO  Homepage:52 - Entering user name[[ChromeDriver: chrome on XP (1b9847d6a495e439dce4226572f6aea7)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-22 14:32:24 INFO  Homepage:54 - Entering user password[[ChromeDriver: chrome on XP (1b9847d6a495e439dce4226572f6aea7)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-22 14:32:24 INFO  Homepage:56 - clicking on login [[ChromeDriver: chrome on XP (1b9847d6a495e439dce4226572f6aea7)] -> xpath: //button[@type='submit']]
+2018-02-22 14:32:25 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-22 14:32:43 INFO  TC001_verifyingLoginpageInvalidCredentials:42 - ........closing the browser............
+2018-02-22 14:34:36 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-22 14:34:36 INFO  Homepage:44 - clicked on signin[[ChromeDriver: chrome on XP (f2c125af762d3267621eab0b4cd1c21a)] -> xpath: //a[@class='login']]
+2018-02-22 14:34:37 INFO  Homepage:46 - This is the heading for users[[ChromeDriver: chrome on XP (f2c125af762d3267621eab0b4cd1c21a)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-22 14:34:37 INFO  Homepage:52 - Entering user name[[ChromeDriver: chrome on XP (f2c125af762d3267621eab0b4cd1c21a)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-22 14:34:37 INFO  Homepage:54 - Entering user password[[ChromeDriver: chrome on XP (f2c125af762d3267621eab0b4cd1c21a)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-22 14:34:38 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-22 14:34:38 INFO  TC001_verifyingLoginpageInvalidCredentials:35 - entered mailid
+2018-02-22 14:34:38 INFO  TC001_verifyingLoginpageInvalidCredentials:42 - ........closing the browser............
+2018-02-22 14:35:13 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-22 14:35:13 INFO  Homepage:44 - clicked on signin[[ChromeDriver: chrome on XP (67340bee8b77a9e8b2766baa8d2228c5)] -> xpath: //a[@class='login']]
+2018-02-22 14:35:15 INFO  Homepage:46 - This is the heading for users[[ChromeDriver: chrome on XP (67340bee8b77a9e8b2766baa8d2228c5)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-22 14:35:15 INFO  Homepage:52 - Entering user name[[ChromeDriver: chrome on XP (67340bee8b77a9e8b2766baa8d2228c5)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-22 14:35:15 INFO  Homepage:54 - Entering user password[[ChromeDriver: chrome on XP (67340bee8b77a9e8b2766baa8d2228c5)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-22 14:35:15 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-22 14:35:15 INFO  TC001_verifyingLoginpageInvalidCredentials:35 - entered mailid
+2018-02-22 14:40:43 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-22 14:40:43 INFO  Homepage:44 - clicked on signin[[ChromeDriver: chrome on XP (55d16f53ccf11b0723c3d0d1e167d50c)] -> xpath: //a[@class='login']]
+2018-02-22 14:40:45 INFO  Homepage:46 - This is the heading for users[[ChromeDriver: chrome on XP (55d16f53ccf11b0723c3d0d1e167d50c)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-22 14:40:46 INFO  Homepage:52 - Entering user name[[ChromeDriver: chrome on XP (55d16f53ccf11b0723c3d0d1e167d50c)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-22 14:40:46 INFO  Homepage:54 - Entering user password[[ChromeDriver: chrome on XP (55d16f53ccf11b0723c3d0d1e167d50c)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-22 14:40:46 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-22 14:40:46 INFO  TC001_verifyingLoginpageInvalidCredentials:10 - entered mailid
+2018-02-22 14:40:46 INFO  TC001_verifyingLoginpageInvalidCredentials:42 - ........closing the browser............
+2018-02-22 16:09:19 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-22 16:09:19 INFO  Homepage:97 - clicked on signin[[ChromeDriver: chrome on XP (8a264c9fb44fd5b7308f7af91f27fde8)] -> xpath: //a[@class='login']]
+2018-02-22 16:09:21 INFO  Homepage:99 - This is the heading for users[[ChromeDriver: chrome on XP (8a264c9fb44fd5b7308f7af91f27fde8)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-22 16:09:21 INFO  Homepage:105 - Entering user name[[ChromeDriver: chrome on XP (8a264c9fb44fd5b7308f7af91f27fde8)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-22 16:09:21 INFO  Homepage:107 - Entering user password[[ChromeDriver: chrome on XP (8a264c9fb44fd5b7308f7af91f27fde8)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-22 16:09:21 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-22 16:09:21 INFO  TC001_verifyingLoginpageInvalidCredentials:10 - entered mailid
+2018-02-22 16:09:21 INFO  TC001_verifyingLoginpageInvalidCredentials:42 - ........closing the browser............
+2018-02-22 16:11:43 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-22 16:11:43 INFO  Homepage:97 - clicked on signin[[ChromeDriver: chrome on XP (d70c7bf3490aae3b9efba021cc1749f1)] -> xpath: //a[@class='login']]
+2018-02-22 16:11:45 INFO  Homepage:99 - This is the heading for users[[ChromeDriver: chrome on XP (d70c7bf3490aae3b9efba021cc1749f1)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-22 16:11:45 INFO  Homepage:105 - Entering user name[[ChromeDriver: chrome on XP (d70c7bf3490aae3b9efba021cc1749f1)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-22 16:11:45 INFO  Homepage:107 - Entering user password[[ChromeDriver: chrome on XP (d70c7bf3490aae3b9efba021cc1749f1)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-22 16:11:45 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-22 16:11:45 INFO  TC001_verifyingLoginpageInvalidCredentials:10 - entered mailid
+2018-02-22 16:18:21 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-22 16:18:21 INFO  Homepage:97 - clicked on signin[[ChromeDriver: chrome on XP (245c56f70fea680d8ac03ec0b8931f6f)] -> xpath: //a[@class='login']]
+2018-02-22 16:18:23 INFO  Homepage:99 - This is the heading for users[[ChromeDriver: chrome on XP (245c56f70fea680d8ac03ec0b8931f6f)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-22 16:18:23 INFO  Homepage:105 - Entering user name[[ChromeDriver: chrome on XP (245c56f70fea680d8ac03ec0b8931f6f)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-22 16:18:23 INFO  Homepage:107 - Entering user password[[ChromeDriver: chrome on XP (245c56f70fea680d8ac03ec0b8931f6f)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-22 16:18:23 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-22 16:18:23 INFO  TC001_verifyingLoginpageInvalidCredentials:10 - entered mailid
+2018-02-22 16:21:47 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-22 16:21:47 INFO  Homepage:97 - clicked on signin[[ChromeDriver: chrome on XP (d38170bfe0a60d12ca0c016d5c7f9ce6)] -> xpath: //a[@class='login']]
+2018-02-22 16:21:48 INFO  Homepage:99 - This is the heading for users[[ChromeDriver: chrome on XP (d38170bfe0a60d12ca0c016d5c7f9ce6)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-22 16:21:48 INFO  Homepage:105 - Entering user name[[ChromeDriver: chrome on XP (d38170bfe0a60d12ca0c016d5c7f9ce6)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-22 16:21:49 INFO  Homepage:107 - Entering user password[[ChromeDriver: chrome on XP (d38170bfe0a60d12ca0c016d5c7f9ce6)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-22 16:21:49 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-22 16:21:49 INFO  TC001_verifyingLoginpageInvalidCredentials:10 - entered mailid
+2018-02-22 16:21:52 INFO  Homepage:13 - information entered successfully
+2018-02-23 10:10:10 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-23 10:10:10 INFO  Homepage:100 - clicked on signin[[ChromeDriver: chrome on XP (aedb308ce4a292276079ef8da918dd23)] -> xpath: //a[@class='login']]
+2018-02-23 10:10:13 INFO  Homepage:102 - This is the heading for users[[ChromeDriver: chrome on XP (aedb308ce4a292276079ef8da918dd23)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-23 10:10:13 INFO  Homepage:108 - Entering user name[[ChromeDriver: chrome on XP (aedb308ce4a292276079ef8da918dd23)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-23 10:10:13 INFO  Homepage:110 - Entering user password[[ChromeDriver: chrome on XP (aedb308ce4a292276079ef8da918dd23)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-23 10:10:13 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-23 10:10:13 INFO  TC001_verifyingLoginpageInvalidCredentials:10 - entered mailid
+2018-02-23 10:10:18 INFO  Homepage:14 - User information entered successfully
+2018-02-23 10:14:14 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-23 10:14:14 INFO  Homepage:100 - clicked on signin[[ChromeDriver: chrome on XP (69193224ad4f66f0a9df9410eaae1063)] -> xpath: //a[@class='login']]
+2018-02-23 10:14:16 INFO  Homepage:102 - This is the heading for users[[ChromeDriver: chrome on XP (69193224ad4f66f0a9df9410eaae1063)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-23 10:14:16 INFO  Homepage:108 - Entering user name[[ChromeDriver: chrome on XP (69193224ad4f66f0a9df9410eaae1063)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-23 10:14:16 INFO  Homepage:110 - Entering user password[[ChromeDriver: chrome on XP (69193224ad4f66f0a9df9410eaae1063)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-23 10:14:16 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-23 10:14:16 INFO  TC001_verifyingLoginpageInvalidCredentials:10 - entered mailid
+2018-02-23 10:14:23 INFO  Homepage:14 - User information entered successfully
+2018-02-23 10:15:59 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-23 10:15:59 INFO  Homepage:100 - clicked on signin[[ChromeDriver: chrome on XP (cb746be05fba7e1d25f0b81505881b24)] -> xpath: //a[@class='login']]
+2018-02-23 10:16:01 INFO  Homepage:102 - This is the heading for users[[ChromeDriver: chrome on XP (cb746be05fba7e1d25f0b81505881b24)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-23 10:16:01 INFO  Homepage:108 - Entering user name[[ChromeDriver: chrome on XP (cb746be05fba7e1d25f0b81505881b24)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-23 10:16:01 INFO  Homepage:110 - Entering user password[[ChromeDriver: chrome on XP (cb746be05fba7e1d25f0b81505881b24)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-23 10:16:01 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-23 10:16:01 INFO  TC001_verifyingLoginpageInvalidCredentials:10 - entered mailid
+2018-02-23 10:16:06 INFO  Homepage:14 - User information entered successfully
+2018-02-23 10:16:06 INFO  Homepage:16 - Erroe msg generated successfully
+2018-02-23 10:16:06 INFO  TC001_verifyingLoginpageInvalidCredentials:36 - ........closing the browser............
+2018-02-23 10:51:33 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-23 10:51:33 INFO  Homepage:100 - clicked on signin[[ChromeDriver: chrome on XP (5a8509f75629745fda436d0ad5d7ea2f)] -> xpath: //a[@class='login']]
+2018-02-23 10:51:35 INFO  Homepage:102 - This is the heading for users[[ChromeDriver: chrome on XP (5a8509f75629745fda436d0ad5d7ea2f)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-23 10:51:35 INFO  Homepage:108 - Entering user name[[ChromeDriver: chrome on XP (5a8509f75629745fda436d0ad5d7ea2f)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-23 10:51:35 INFO  Homepage:110 - Entering user password[[ChromeDriver: chrome on XP (5a8509f75629745fda436d0ad5d7ea2f)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-23 10:51:35 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-23 10:51:36 INFO  TC001_verifyingLoginpageInvalidCredentials:10 - entered mailid
+2018-02-23 10:51:41 INFO  Homepage:16 - User information entered successfully
+2018-02-23 10:51:41 INFO  Homepage:18 - Error msg generated successfully
+2018-02-23 10:51:41 INFO  TC001_verifyingLoginpageInvalidCredentials:36 - ........closing the browser............
+2018-02-23 10:53:01 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-23 10:53:01 INFO  Homepage:100 - clicked on signin[[ChromeDriver: chrome on XP (6471c242f33a55902dea3b569e75ecf5)] -> xpath: //a[@class='login']]
+2018-02-23 10:53:02 INFO  Homepage:102 - This is the heading for users[[ChromeDriver: chrome on XP (6471c242f33a55902dea3b569e75ecf5)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-23 10:53:02 INFO  Homepage:108 - Entering user name[[ChromeDriver: chrome on XP (6471c242f33a55902dea3b569e75ecf5)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-23 10:53:02 INFO  Homepage:110 - Entering user password[[ChromeDriver: chrome on XP (6471c242f33a55902dea3b569e75ecf5)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-23 10:53:02 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-23 10:53:03 INFO  TC001_verifyingLoginpageInvalidCredentials:10 - entered mailid
+2018-02-23 10:53:08 INFO  Homepage:16 - User information entered successfully
+2018-02-23 10:53:08 INFO  Homepage:18 - Error msg generated successfully
+2018-02-23 10:53:09 INFO  TC001_verifyingLoginpageInvalidCredentials:36 - ........closing the browser............
+2018-02-23 10:53:37 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-23 10:53:37 INFO  Homepage:100 - clicked on signin[[ChromeDriver: chrome on XP (cbbe472b11951aedf6defcbcf76c468f)] -> xpath: //a[@class='login']]
+2018-02-23 10:53:38 INFO  Homepage:102 - This is the heading for users[[ChromeDriver: chrome on XP (cbbe472b11951aedf6defcbcf76c468f)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-23 10:53:38 INFO  Homepage:108 - Entering user name[[ChromeDriver: chrome on XP (cbbe472b11951aedf6defcbcf76c468f)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-23 10:53:39 INFO  Homepage:110 - Entering user password[[ChromeDriver: chrome on XP (cbbe472b11951aedf6defcbcf76c468f)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-23 10:53:39 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-23 10:53:39 INFO  TC001_verifyingLoginpageInvalidCredentials:10 - entered mailid
+2018-02-23 10:53:44 INFO  Homepage:16 - User information entered successfully
+2018-02-23 10:53:44 INFO  Homepage:18 - Error msg generated successfully
+2018-02-23 10:53:44 INFO  TC001_verifyingLoginpageInvalidCredentials:36 - ........closing the browser............
+2018-02-23 11:00:38 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-23 11:00:38 INFO  Homepage:100 - clicked on signin[[ChromeDriver: chrome on XP (d4ed8167bebbf204ab5cc77707ddd95f)] -> xpath: //a[@class='login']]
+2018-02-23 11:00:40 INFO  Homepage:102 - This is the heading for users[[ChromeDriver: chrome on XP (d4ed8167bebbf204ab5cc77707ddd95f)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-23 11:00:40 INFO  Homepage:108 - Entering user name[[ChromeDriver: chrome on XP (d4ed8167bebbf204ab5cc77707ddd95f)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-23 11:00:40 INFO  Homepage:110 - Entering user password[[ChromeDriver: chrome on XP (d4ed8167bebbf204ab5cc77707ddd95f)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-23 11:00:41 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-23 11:00:41 INFO  TC001_verifyingLoginpageInvalidCredentials:10 - entered mailid
+2018-02-23 11:00:46 INFO  Homepage:19 - User information entered successfully
+2018-02-23 11:00:46 INFO  Homepage:21 - Error msg generated successfully
+2018-02-23 11:00:46 INFO  TC001_verifyingLoginpageInvalidCredentials:36 - ........closing the browser............
+2018-02-23 11:06:28 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-23 11:06:28 INFO  Homepage:100 - clicked on signin[[ChromeDriver: chrome on XP (a9e16bce4fd8355579491818cbf4eb07)] -> xpath: //a[@class='login']]
+2018-02-23 11:06:30 INFO  Homepage:102 - This is the heading for users[[ChromeDriver: chrome on XP (a9e16bce4fd8355579491818cbf4eb07)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-23 11:06:30 INFO  Homepage:108 - Entering user name[[ChromeDriver: chrome on XP (a9e16bce4fd8355579491818cbf4eb07)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-23 11:06:30 INFO  Homepage:110 - Entering user password[[ChromeDriver: chrome on XP (a9e16bce4fd8355579491818cbf4eb07)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-23 11:06:31 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-23 11:06:31 INFO  TC001_verifyingLoginpageInvalidCredentials:10 - entered mailid
+2018-02-23 11:06:36 INFO  Homepage:19 - User information entered successfully
+2018-02-23 11:06:36 INFO  Homepage:21 - Error msg generated successfully
+2018-02-23 11:06:38 INFO  TC001_verifyingLoginpageInvalidCredentials:36 - ........closing the browser............
+2018-02-23 11:18:16 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-23 11:18:16 INFO  Homepage:102 - clicked on signin[[ChromeDriver: chrome on XP (cebdfc1dc87fe552869414642aea83f0)] -> xpath: //a[@class='login']]
+2018-02-23 11:18:19 INFO  Homepage:104 - This is the heading for users[[ChromeDriver: chrome on XP (cebdfc1dc87fe552869414642aea83f0)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-23 11:18:19 INFO  Homepage:110 - Entering user name[[ChromeDriver: chrome on XP (cebdfc1dc87fe552869414642aea83f0)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-23 11:18:19 INFO  Homepage:112 - Entering user password[[ChromeDriver: chrome on XP (cebdfc1dc87fe552869414642aea83f0)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-23 11:18:19 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-23 11:18:20 INFO  TC001_verifyingLoginpageInvalidCredentials:10 - entered mailid
+2018-02-23 11:18:25 INFO  Homepage:19 - User information entered successfully
+2018-02-23 11:18:25 INFO  TC001_verifyingLoginpageInvalidCredentials:36 - ........closing the browser............
+2018-02-23 11:20:05 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-23 11:20:05 INFO  Homepage:102 - clicked on signin[[ChromeDriver: chrome on XP (0a782d7ec227e551eaf4341d70335516)] -> xpath: //a[@class='login']]
+2018-02-23 11:20:06 INFO  Homepage:104 - This is the heading for users[[ChromeDriver: chrome on XP (0a782d7ec227e551eaf4341d70335516)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-23 11:20:06 INFO  Homepage:110 - Entering user name[[ChromeDriver: chrome on XP (0a782d7ec227e551eaf4341d70335516)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-23 11:20:07 INFO  Homepage:112 - Entering user password[[ChromeDriver: chrome on XP (0a782d7ec227e551eaf4341d70335516)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-23 11:20:07 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-23 11:20:07 INFO  TC001_verifyingLoginpageInvalidCredentials:10 - entered mailid
+2018-02-23 11:20:12 INFO  Homepage:21 - User information entered successfully
+2018-02-23 11:20:12 INFO  Homepage:23 - Error msg generated successfully
+2018-02-23 11:20:12 INFO  TC001_verifyingLoginpageInvalidCredentials:36 - ........closing the browser............
+2018-02-23 11:51:55 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-23 11:51:55 INFO  Homepage:102 - clicked on signin[[ChromeDriver: chrome on XP (d0c99d57d3e61c626913fa541cdf6424)] -> xpath: //a[@class='login']]
+2018-02-23 11:51:57 INFO  Homepage:104 - This is the heading for users[[ChromeDriver: chrome on XP (d0c99d57d3e61c626913fa541cdf6424)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-23 11:51:57 INFO  Homepage:110 - Entering user name[[ChromeDriver: chrome on XP (d0c99d57d3e61c626913fa541cdf6424)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-23 11:51:57 INFO  Homepage:112 - Entering user password[[ChromeDriver: chrome on XP (d0c99d57d3e61c626913fa541cdf6424)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-23 11:51:57 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-23 11:51:58 INFO  TC001_verifyingLoginpageInvalidCredentials:10 - entered mailid
+2018-02-23 11:52:03 INFO  Homepage:20 - User information entered successfully
+2018-02-23 11:52:03 INFO  TC001_verifyingLoginpageInvalidCredentials:36 - ........closing the browser............
+2018-02-23 13:46:39 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-23 13:46:39 INFO  Homepage:102 - clicked on signin[[ChromeDriver: chrome on XP (46e0680841a3da5501e6db4ed9159074)] -> xpath: //a[@class='login']]
+2018-02-23 13:46:41 INFO  Homepage:104 - This is the heading for users[[ChromeDriver: chrome on XP (46e0680841a3da5501e6db4ed9159074)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-23 13:46:41 INFO  Homepage:110 - Entering user name[[ChromeDriver: chrome on XP (46e0680841a3da5501e6db4ed9159074)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-23 13:46:41 INFO  Homepage:112 - Entering user password[[ChromeDriver: chrome on XP (46e0680841a3da5501e6db4ed9159074)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-23 13:46:41 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-23 13:46:41 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-23 13:46:41 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-23 13:46:41 INFO  TC001_verifyingLoginpageInvalidCredentials:36 - ........closing the browser............
+2018-02-23 13:59:14 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-23 13:59:14 INFO  Homepage:102 - clicked on signin[[ChromeDriver: chrome on XP (444bddc01aa7d32741682e3c31680300)] -> xpath: //a[@class='login']]
+2018-02-23 13:59:16 INFO  Homepage:104 - This is the heading for users[[ChromeDriver: chrome on XP (444bddc01aa7d32741682e3c31680300)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-23 13:59:16 INFO  Homepage:110 - Entering user name[[ChromeDriver: chrome on XP (444bddc01aa7d32741682e3c31680300)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-23 13:59:16 INFO  Homepage:112 - Entering user password[[ChromeDriver: chrome on XP (444bddc01aa7d32741682e3c31680300)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-23 13:59:16 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-23 13:59:17 INFO  TC001_verifyingLoginpageInvalidCredentials:10 - entered mailid
+2018-02-23 13:59:22 INFO  Homepage:20 - User information entered successfully
+2018-02-23 13:59:22 INFO  TC001_verifyingLoginpageInvalidCredentials:36 - ........closing the browser............
+2018-02-23 14:00:35 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-23 14:00:36 INFO  Homepage:102 - clicked on signin[[ChromeDriver: chrome on XP (1fbbf03534c1087cf6de162076b9b817)] -> xpath: //a[@class='login']]
+2018-02-23 14:00:38 INFO  Homepage:104 - This is the heading for users[[ChromeDriver: chrome on XP (1fbbf03534c1087cf6de162076b9b817)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-23 14:00:38 INFO  Homepage:110 - Entering user name[[ChromeDriver: chrome on XP (1fbbf03534c1087cf6de162076b9b817)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-23 14:00:38 INFO  Homepage:112 - Entering user password[[ChromeDriver: chrome on XP (1fbbf03534c1087cf6de162076b9b817)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-23 14:00:38 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-23 14:00:38 INFO  TC001_verifyingLoginpageInvalidCredentials:10 - entered mailid
+2018-02-23 14:00:43 INFO  Homepage:20 - User information entered successfully
+2018-02-23 14:00:43 INFO  Homepage:22 - Error msg generated successfully
+2018-02-23 14:00:43 INFO  TC001_verifyingLoginpageInvalidCredentials:36 - ........closing the browser............
+2018-02-23 14:01:04 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-23 14:01:04 INFO  Homepage:102 - clicked on signin[[ChromeDriver: chrome on XP (e478d120cf3ee79d46caf1d5f1c15009)] -> xpath: //a[@class='login']]
+2018-02-23 14:01:06 INFO  Homepage:104 - This is the heading for users[[ChromeDriver: chrome on XP (e478d120cf3ee79d46caf1d5f1c15009)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-23 14:01:06 INFO  Homepage:110 - Entering user name[[ChromeDriver: chrome on XP (e478d120cf3ee79d46caf1d5f1c15009)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-23 14:01:06 INFO  Homepage:112 - Entering user password[[ChromeDriver: chrome on XP (e478d120cf3ee79d46caf1d5f1c15009)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-23 14:01:06 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-23 14:01:07 INFO  TC001_verifyingLoginpageInvalidCredentials:10 - entered mailid
+2018-02-23 14:01:12 INFO  Homepage:20 - User information entered successfully
+2018-02-23 14:01:12 INFO  Homepage:22 - Error msg generated successfully
+2018-02-23 14:01:12 INFO  TC001_verifyingLoginpageInvalidCredentials:36 - ........closing the browser............
+2018-02-23 14:36:05 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-23 14:36:05 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (0db202bd7babddd867e93b2e17ee316f)] -> xpath: //a[@class='login']]
+2018-02-23 14:36:08 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (0db202bd7babddd867e93b2e17ee316f)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-23 14:36:08 INFO  Homepage:113 - Entering user name[[ChromeDriver: chrome on XP (0db202bd7babddd867e93b2e17ee316f)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-23 14:36:08 INFO  Homepage:115 - Entering user password[[ChromeDriver: chrome on XP (0db202bd7babddd867e93b2e17ee316f)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-23 14:36:08 INFO  Homepage:117 - clicking on login [[ChromeDriver: chrome on XP (0db202bd7babddd867e93b2e17ee316f)] -> xpath: //button[@type='submit']]
+2018-02-23 14:37:40 INFO  TC001_verifyingLoginpageInvalidCredentials:37 - ........closing the browser............
+2018-02-23 14:39:20 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-23 14:39:20 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (b66a89a20d2fed3da4d70817b23cb090)] -> xpath: //a[@class='login']]
+2018-02-23 14:39:22 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (b66a89a20d2fed3da4d70817b23cb090)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-23 14:39:22 INFO  Homepage:113 - Entering user name[[ChromeDriver: chrome on XP (b66a89a20d2fed3da4d70817b23cb090)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-23 14:39:22 INFO  Homepage:115 - Entering user password[[ChromeDriver: chrome on XP (b66a89a20d2fed3da4d70817b23cb090)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-23 14:39:22 INFO  Homepage:117 - clicking on login [[ChromeDriver: chrome on XP (b66a89a20d2fed3da4d70817b23cb090)] -> xpath: //button[@type='submit']]
+2018-02-23 14:39:24 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-23 14:39:24 INFO  TC001_verifyingLoginpageInvalidCredentials:36 - ........closing the browser............
+2018-02-26 10:46:48 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-26 10:46:48 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (c62cc28f2f722510bb5d0e60a231f86d)] -> xpath: //a[@class='login']]
+2018-02-26 10:46:50 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (c62cc28f2f722510bb5d0e60a231f86d)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-26 10:46:50 INFO  Homepage:113 - Entering user name[[ChromeDriver: chrome on XP (c62cc28f2f722510bb5d0e60a231f86d)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-26 10:46:50 INFO  Homepage:115 - Entering user password[[ChromeDriver: chrome on XP (c62cc28f2f722510bb5d0e60a231f86d)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-26 10:46:50 INFO  Homepage:117 - clicking on login [[ChromeDriver: chrome on XP (c62cc28f2f722510bb5d0e60a231f86d)] -> xpath: //button[@type='submit']]
+2018-02-26 10:46:52 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-26 10:47:02 INFO  TC001_verifyingLoginpageInvalidCredentials:36 - ........closing the browser............
+2018-02-26 10:47:57 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-26 10:47:57 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (c49f1e0623d443803e5a11de9beb8658)] -> xpath: //a[@class='login']]
+2018-02-26 10:48:00 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (c49f1e0623d443803e5a11de9beb8658)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-26 10:48:00 INFO  Homepage:113 - Entering user name[[ChromeDriver: chrome on XP (c49f1e0623d443803e5a11de9beb8658)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-26 10:48:00 INFO  Homepage:115 - Entering user password[[ChromeDriver: chrome on XP (c49f1e0623d443803e5a11de9beb8658)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-26 10:48:00 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-26 10:48:00 INFO  Homepage:126 - email created successfully[[ChromeDriver: chrome on XP (c49f1e0623d443803e5a11de9beb8658)] -> xpath: //input[@type='text'][@id='email_create']]
+2018-02-26 10:48:00 INFO  TC001_verifyingLoginpageInvalidCredentials:10 - entered mailid
+2018-02-26 10:48:06 INFO  Homepage:20 - User information entered successfully
+2018-02-26 10:48:06 INFO  Homepage:22 - Error msg generated successfully
+2018-02-26 10:48:06 INFO  TC001_verifyingLoginpageInvalidCredentials:36 - ........closing the browser............
+2018-02-26 15:18:46 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-26 15:18:46 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (868ae8ba790092e3aa78ebbcdd5cf360)] -> xpath: //a[@class='login']]
+2018-02-26 15:18:48 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (868ae8ba790092e3aa78ebbcdd5cf360)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-26 15:18:48 INFO  Homepage:113 - Entering user name[[ChromeDriver: chrome on XP (868ae8ba790092e3aa78ebbcdd5cf360)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-26 15:18:48 INFO  Homepage:115 - Entering user password[[ChromeDriver: chrome on XP (868ae8ba790092e3aa78ebbcdd5cf360)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-26 15:18:48 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-26 15:18:48 INFO  Homepage:126 - email created successfully[[ChromeDriver: chrome on XP (868ae8ba790092e3aa78ebbcdd5cf360)] -> xpath: //input[@type='text'][@id='email_create']]
+2018-02-26 15:18:48 INFO  TC001_verifyingLoginpageInvalidCredentials:10 - entered mailid
+2018-02-26 15:18:53 INFO  Homepage:20 - User information entered successfully
+2018-02-26 15:18:53 INFO  Homepage:22 - Error msg generated successfully
+2018-02-26 15:18:53 INFO  TC001_verifyingLoginpageInvalidCredentials:36 - ........closing the browser............
+2018-02-26 15:57:16 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-26 15:57:16 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (6b26cdbc7178a198051a630c5cce9afa)] -> xpath: //a[@class='login']]
+2018-02-26 15:57:18 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (6b26cdbc7178a198051a630c5cce9afa)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-26 15:57:18 INFO  Homepage:113 - Entering user name[[ChromeDriver: chrome on XP (6b26cdbc7178a198051a630c5cce9afa)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-02-26 15:57:18 INFO  Homepage:115 - Entering user password[[ChromeDriver: chrome on XP (6b26cdbc7178a198051a630c5cce9afa)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-02-26 15:57:18 INFO  TC001_verifyingLoginpageInvalidCredentials:29 - ..............verification ended..............
+2018-02-26 15:57:18 INFO  TC001_verifyingLoginpageInvalidCredentials:36 - ........closing the browser............
+2018-02-26 15:58:33 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (f6761b3d2ec5aefa52be2ca2f1d20524)] -> xpath: //a[@class='login']]
+2018-02-26 15:58:34 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (f6761b3d2ec5aefa52be2ca2f1d20524)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-26 16:40:42 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (04cfe7457cc4123d55034e975f715623)] -> xpath: //a[@class='login']]
+2018-02-26 16:40:43 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (04cfe7457cc4123d55034e975f715623)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-26 16:41:59 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (fc9e730e5efff4f80250bf38d657c6b3)] -> xpath: //a[@class='login']]
+2018-02-26 16:42:01 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (fc9e730e5efff4f80250bf38d657c6b3)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-26 16:44:42 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (9de8f06bc0ea46381489be1f8e2d7443)] -> xpath: //a[@class='login']]
+2018-02-26 16:44:44 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (9de8f06bc0ea46381489be1f8e2d7443)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-26 16:55:18 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (0b26ac0ffe634db6681829ccb3db4f21)] -> xpath: //a[@class='login']]
+2018-02-26 16:55:19 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (0b26ac0ffe634db6681829ccb3db4f21)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-26 16:57:14 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (74023b4b46b24bf81fa60e08ffa37275)] -> xpath: //a[@class='login']]
+2018-02-26 16:57:15 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (74023b4b46b24bf81fa60e08ffa37275)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-26 17:04:52 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (62d10ea09c404fae5f2dfa10d717db22)] -> xpath: //a[@class='login']]
+2018-02-26 17:04:54 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (62d10ea09c404fae5f2dfa10d717db22)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-26 17:04:55 INFO  TC001_verifyingLoginpageInvalidCredentials:27 - assertion successfull
+2018-02-26 17:10:09 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (ec93904e9a6c1a6acdd76c3a956ad8e2)] -> xpath: //a[@class='login']]
+2018-02-26 17:10:11 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (ec93904e9a6c1a6acdd76c3a956ad8e2)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-26 17:10:11 INFO  Homepage:157 - username entered
+2018-02-26 17:10:11 INFO  Homepage:160 - password entered
+2018-02-26 17:10:12 INFO  Homepage:162 - clicked on login
+2018-02-26 17:10:12 INFO  TC001_verifyingLoginpageInvalidCredentials:28 - assertion successfull
+2018-02-26 17:11:57 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (69b8cc19cb69626b97ad49462f7dd877)] -> xpath: //a[@class='login']]
+2018-02-26 17:11:58 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (69b8cc19cb69626b97ad49462f7dd877)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-26 17:11:58 INFO  Homepage:157 - username entered
+2018-02-26 17:11:58 INFO  Homepage:160 - password entered
+2018-02-26 17:11:59 INFO  Homepage:162 - clicked on login
+2018-02-26 17:11:59 INFO  TC001_verifyingLoginpageInvalidCredentials:28 - assertion successfull
+2018-02-26 17:12:00 INFO  Homepage:157 - username entered
+2018-02-26 17:12:00 INFO  Homepage:160 - password entered
+2018-02-26 17:12:01 INFO  Homepage:162 - clicked on login
+2018-02-26 17:12:01 INFO  TC001_verifyingLoginpageInvalidCredentials:31 - assertion successfull
+2018-02-26 17:12:01 INFO  Homepage:157 - username entered
+2018-02-26 17:12:01 INFO  Homepage:160 - password entered
+2018-02-26 17:12:02 INFO  Homepage:162 - clicked on login
+2018-02-26 17:12:02 INFO  TC001_verifyingLoginpageInvalidCredentials:34 - assertion successfull
+2018-02-27 10:18:22 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (730fcade39cdf9e07aeab4fa5885bbdd)] -> xpath: //a[@class='login']]
+2018-02-27 10:18:24 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (730fcade39cdf9e07aeab4fa5885bbdd)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-27 10:18:24 INFO  Homepage:157 - username entered
+2018-02-27 10:18:24 INFO  Homepage:160 - password entered
+2018-02-27 10:18:26 INFO  Homepage:162 - clicked on login
+2018-02-27 10:18:26 INFO  TC004_Verifyinglogindemositeexceldata:36 - assertion successfull
+2018-02-27 10:30:58 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (c7c32b332f5269b6c91dc2c1165859fd)] -> xpath: //a[@class='login']]
+2018-02-27 10:31:00 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (c7c32b332f5269b6c91dc2c1165859fd)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-27 10:31:00 INFO  Homepage:157 - username entered
+2018-02-27 10:31:00 INFO  Homepage:160 - password entered
+2018-02-27 10:31:01 INFO  Homepage:162 - clicked on login
+2018-02-27 10:31:01 INFO  TC004_Verifyinglogindemositeexceldata:38 - assertion successfull
+2018-02-27 10:53:06 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (0b9cd435b8ae75d5668469c93086ec45)] -> xpath: //a[@class='login']]
+2018-02-27 10:53:08 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (0b9cd435b8ae75d5668469c93086ec45)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-27 10:53:09 INFO  Homepage:157 - username entered
+2018-02-27 10:53:09 INFO  Homepage:160 - password entered
+2018-02-27 10:53:10 INFO  Homepage:162 - clicked on login
+2018-02-27 10:53:10 INFO  TC004_Verifyinglogindemositeexceldata:38 - assertion successfull
+2018-02-27 10:53:10 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (0b9cd435b8ae75d5668469c93086ec45)] -> xpath: //a[@class='login']]
+2018-02-27 10:53:11 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (0b9cd435b8ae75d5668469c93086ec45)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-27 10:53:12 INFO  Homepage:157 - username entered
+2018-02-27 10:53:12 INFO  Homepage:160 - password entered
+2018-02-27 10:53:13 INFO  Homepage:162 - clicked on login
+2018-02-27 10:53:13 INFO  TC004_Verifyinglogindemositeexceldata:38 - assertion successfull
+2018-02-27 10:53:13 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (0b9cd435b8ae75d5668469c93086ec45)] -> xpath: //a[@class='login']]
+2018-02-27 10:53:15 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (0b9cd435b8ae75d5668469c93086ec45)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-27 10:53:15 INFO  Homepage:157 - username entered
+2018-02-27 10:53:15 INFO  Homepage:160 - password entered
+2018-02-27 10:53:16 INFO  Homepage:162 - clicked on login
+2018-02-27 10:53:16 INFO  TC004_Verifyinglogindemositeexceldata:38 - assertion successfull
+2018-02-27 10:53:16 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (0b9cd435b8ae75d5668469c93086ec45)] -> xpath: //a[@class='login']]
+2018-02-27 10:53:18 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (0b9cd435b8ae75d5668469c93086ec45)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-27 10:53:18 INFO  Homepage:157 - username entered
+2018-02-27 10:53:18 INFO  Homepage:160 - password entered
+2018-02-27 10:53:19 INFO  Homepage:162 - clicked on login
+2018-02-27 10:53:19 INFO  TC004_Verifyinglogindemositeexceldata:38 - assertion successfull
+2018-02-27 10:54:38 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (10bc11dba941416447c77637ef379993)] -> xpath: //a[@class='login']]
+2018-02-27 10:54:40 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (10bc11dba941416447c77637ef379993)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-27 10:54:40 INFO  Homepage:157 - username entered
+2018-02-27 10:54:41 INFO  Homepage:160 - password entered
+2018-02-27 10:54:42 INFO  Homepage:162 - clicked on login
+2018-02-27 10:54:42 INFO  TC004_Verifyinglogindemositeexceldata:38 - assertion successfull
+2018-02-27 10:54:42 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (10bc11dba941416447c77637ef379993)] -> xpath: //a[@class='login']]
+2018-02-27 10:54:43 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (10bc11dba941416447c77637ef379993)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-27 10:54:44 INFO  Homepage:157 - username entered
+2018-02-27 10:54:44 INFO  Homepage:160 - password entered
+2018-02-27 10:54:45 INFO  Homepage:162 - clicked on login
+2018-02-27 10:54:45 INFO  TC004_Verifyinglogindemositeexceldata:38 - assertion successfull
+2018-02-27 10:54:45 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (10bc11dba941416447c77637ef379993)] -> xpath: //a[@class='login']]
+2018-02-27 10:54:47 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (10bc11dba941416447c77637ef379993)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-27 10:54:48 INFO  Homepage:157 - username entered
+2018-02-27 10:54:48 INFO  Homepage:160 - password entered
+2018-02-27 10:54:49 INFO  Homepage:162 - clicked on login
+2018-02-27 10:54:49 INFO  TC004_Verifyinglogindemositeexceldata:38 - assertion successfull
+2018-02-27 10:54:50 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (10bc11dba941416447c77637ef379993)] -> xpath: //a[@class='login']]
+2018-02-27 10:54:51 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (10bc11dba941416447c77637ef379993)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-27 10:54:51 INFO  Homepage:157 - username entered
+2018-02-27 10:54:51 INFO  Homepage:160 - password entered
+2018-02-27 10:54:53 INFO  Homepage:162 - clicked on login
+2018-02-27 10:54:53 INFO  TC004_Verifyinglogindemositeexceldata:38 - assertion successfull
+2018-02-27 11:05:45 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (40ef45bad86bd308ba72f40f0d70ef08)] -> xpath: //a[@class='login']]
+2018-02-27 11:05:47 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (40ef45bad86bd308ba72f40f0d70ef08)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-27 11:05:47 INFO  Homepage:157 - username entered
+2018-02-27 11:05:47 INFO  Homepage:160 - password entered
+2018-02-27 11:05:48 INFO  Homepage:162 - clicked on login
+2018-02-27 11:05:48 INFO  TC004_Verifyinglogindemositeexceldata:38 - assertion successfull
+2018-02-27 11:05:48 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (40ef45bad86bd308ba72f40f0d70ef08)] -> xpath: //a[@class='login']]
+2018-02-27 11:05:50 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (40ef45bad86bd308ba72f40f0d70ef08)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-27 11:05:50 INFO  Homepage:157 - username entered
+2018-02-27 11:05:50 INFO  Homepage:160 - password entered
+2018-02-27 11:05:52 INFO  Homepage:162 - clicked on login
+2018-02-27 11:05:52 INFO  TC004_Verifyinglogindemositeexceldata:38 - assertion successfull
+2018-02-27 11:05:52 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (40ef45bad86bd308ba72f40f0d70ef08)] -> xpath: //a[@class='login']]
+2018-02-27 11:05:53 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (40ef45bad86bd308ba72f40f0d70ef08)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-27 11:05:53 INFO  Homepage:157 - username entered
+2018-02-27 11:05:53 INFO  Homepage:160 - password entered
+2018-02-27 11:05:54 INFO  Homepage:162 - clicked on login
+2018-02-27 11:05:55 INFO  TC004_Verifyinglogindemositeexceldata:38 - assertion successfull
+2018-02-27 11:05:55 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (40ef45bad86bd308ba72f40f0d70ef08)] -> xpath: //a[@class='login']]
+2018-02-27 11:05:56 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (40ef45bad86bd308ba72f40f0d70ef08)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-27 11:05:56 INFO  Homepage:157 - username entered
+2018-02-27 11:05:57 INFO  Homepage:160 - password entered
+2018-02-27 11:05:58 INFO  Homepage:162 - clicked on login
+2018-02-27 11:05:58 INFO  TC004_Verifyinglogindemositeexceldata:38 - assertion successfull
+2018-02-27 11:57:18 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (85687ec38a938669d17ea9a7092e3122)] -> xpath: //a[@class='login']]
+2018-02-27 11:57:20 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (85687ec38a938669d17ea9a7092e3122)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-27 11:57:21 INFO  Homepage:157 - username entered
+2018-02-27 11:57:21 INFO  Homepage:160 - password entered
+2018-02-27 11:57:22 INFO  Homepage:162 - clicked on login
+2018-02-27 11:57:22 INFO  TC004_Verifyinglogindemositeexceldata:38 - assertion successfull
+2018-02-27 11:57:22 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (85687ec38a938669d17ea9a7092e3122)] -> xpath: //a[@class='login']]
+2018-02-27 11:57:24 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (85687ec38a938669d17ea9a7092e3122)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-27 11:57:25 INFO  Homepage:157 - username entered
+2018-02-27 11:57:25 INFO  Homepage:160 - password entered
+2018-02-27 11:57:31 INFO  Homepage:162 - clicked on login
+2018-02-27 11:57:31 INFO  TC004_Verifyinglogindemositeexceldata:38 - assertion successfull
+2018-02-27 11:57:31 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (85687ec38a938669d17ea9a7092e3122)] -> xpath: //a[@class='login']]
+2018-02-27 11:57:38 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (85687ec38a938669d17ea9a7092e3122)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-27 11:57:38 INFO  Homepage:157 - username entered
+2018-02-27 11:57:38 INFO  Homepage:160 - password entered
+2018-02-27 11:57:44 INFO  Homepage:162 - clicked on login
+2018-02-27 11:57:44 INFO  TC004_Verifyinglogindemositeexceldata:38 - assertion successfull
+2018-02-27 11:57:44 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (85687ec38a938669d17ea9a7092e3122)] -> xpath: //a[@class='login']]
+2018-02-27 11:57:51 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (85687ec38a938669d17ea9a7092e3122)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-27 11:57:51 INFO  Homepage:157 - username entered
+2018-02-27 11:57:51 INFO  Homepage:160 - password entered
+2018-02-27 11:57:58 INFO  Homepage:162 - clicked on login
+2018-02-27 11:57:58 INFO  TC004_Verifyinglogindemositeexceldata:38 - assertion successfull
+2018-02-27 12:26:29 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (c9e781a57d6e38e89bcf2e075b834e3e)] -> xpath: //a[@class='login']]
+2018-02-27 12:26:32 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (c9e781a57d6e38e89bcf2e075b834e3e)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-27 12:26:32 INFO  Homepage:157 - username entered
+2018-02-27 12:26:32 INFO  Homepage:160 - password entered
+2018-02-27 12:26:33 INFO  Homepage:162 - clicked on login
+2018-02-27 12:26:33 INFO  TC004_Verifyinglogindemositeexceldata:38 - assertion successfull
+2018-02-27 12:28:12 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (c9e781a57d6e38e89bcf2e075b834e3e)] -> xpath: //a[@class='login']]
+2018-02-27 12:28:14 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (c9e781a57d6e38e89bcf2e075b834e3e)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-27 12:28:14 INFO  Homepage:157 - username entered
+2018-02-27 12:28:14 INFO  Homepage:160 - password entered
+2018-02-27 12:28:15 INFO  Homepage:162 - clicked on login
+2018-02-27 12:28:15 INFO  TC004_Verifyinglogindemositeexceldata:38 - assertion successfull
+2018-02-27 13:03:43 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-27 13:03:43 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (d382dda4d3410750e5a07e3456ca14c1)] -> xpath: //a[@class='login']]
+2018-02-27 13:04:02 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-02-27 13:04:02 INFO  TC001_verifyingLoginpageInvalidCredentials:37 - ........closing the browser............
+2018-02-27 13:04:04 INFO  TC001_verifyingLoginpageInvalidCredentials:37 - ........closing the browser............
+2018-02-27 14:07:02 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (407b62b0744b298d626101971f0b5650)] -> xpath: //a[@class='login']]
+2018-02-27 14:07:04 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (407b62b0744b298d626101971f0b5650)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-27 14:07:04 INFO  Homepage:157 - username entered
+2018-02-27 14:07:05 INFO  Homepage:160 - password entered
+2018-02-27 14:07:11 INFO  Homepage:162 - clicked on login
+2018-02-27 14:07:11 INFO  TC004_Verifyinglogindemositeexceldata:38 - assertion successfull
+2018-02-27 14:07:11 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (407b62b0744b298d626101971f0b5650)] -> xpath: //a[@class='login']]
+2018-02-27 14:07:19 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (407b62b0744b298d626101971f0b5650)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-27 14:07:19 INFO  Homepage:157 - username entered
+2018-02-27 14:07:19 INFO  Homepage:160 - password entered
+2018-02-27 14:07:26 INFO  Homepage:162 - clicked on login
+2018-02-27 14:07:26 INFO  TC004_Verifyinglogindemositeexceldata:38 - assertion successfull
+2018-02-27 14:07:26 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (407b62b0744b298d626101971f0b5650)] -> xpath: //a[@class='login']]
+2018-02-27 14:07:32 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (407b62b0744b298d626101971f0b5650)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-27 14:07:32 INFO  Homepage:157 - username entered
+2018-02-27 14:07:33 INFO  Homepage:160 - password entered
+2018-02-27 14:07:39 INFO  Homepage:162 - clicked on login
+2018-02-27 14:07:39 INFO  TC004_Verifyinglogindemositeexceldata:38 - assertion successfull
+2018-02-27 14:07:39 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (407b62b0744b298d626101971f0b5650)] -> xpath: //a[@class='login']]
+2018-02-27 14:07:45 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (407b62b0744b298d626101971f0b5650)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-27 14:07:46 INFO  Homepage:157 - username entered
+2018-02-27 14:07:46 INFO  Homepage:160 - password entered
+2018-02-27 14:07:52 INFO  Homepage:162 - clicked on login
+2018-02-27 14:07:52 INFO  TC004_Verifyinglogindemositeexceldata:38 - assertion successfull
+2018-02-27 14:16:52 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (72b3ec3860503262cf02986da1c5226e)] -> xpath: //a[@class='login']]
+2018-02-27 14:16:55 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (72b3ec3860503262cf02986da1c5226e)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-27 14:17:13 INFO  Homepage:157 - username entered
+2018-02-27 14:17:13 INFO  Homepage:160 - password entered
+2018-02-27 14:17:20 INFO  Homepage:162 - clicked on login
+2018-02-27 14:17:20 INFO  TC004_Verifyinglogindemositeexceldata:38 - assertion successfull
+2018-02-27 14:20:48 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (3a77a2e9a156eb37209df83d47e7458e)] -> xpath: //a[@class='login']]
+2018-02-27 14:20:50 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (3a77a2e9a156eb37209df83d47e7458e)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-02-27 14:20:50 INFO  Homepage:157 - username entered
+2018-02-27 14:20:50 INFO  Homepage:160 - password entered
+2018-02-27 14:20:57 INFO  Homepage:162 - clicked on login
+2018-03-02 15:38:35 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (157e0f7c5a01115282d3a37eab9e6c4c)] -> xpath: //a[@class='login']]
+2018-03-02 15:38:37 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (157e0f7c5a01115282d3a37eab9e6c4c)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-02 15:38:37 INFO  Homepage:157 - username entered
+2018-03-02 15:38:37 INFO  Homepage:160 - password entered
+2018-03-02 15:38:44 INFO  Homepage:162 - clicked on login
+2018-03-02 15:38:45 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (157e0f7c5a01115282d3a37eab9e6c4c)] -> xpath: //a[@class='login']]
+2018-03-02 15:38:46 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (157e0f7c5a01115282d3a37eab9e6c4c)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-02 15:38:46 INFO  Homepage:157 - username entered
+2018-03-02 15:38:47 INFO  Homepage:160 - password entered
+2018-03-02 15:38:48 INFO  Homepage:162 - clicked on login
+2018-03-02 15:38:48 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (157e0f7c5a01115282d3a37eab9e6c4c)] -> xpath: //a[@class='login']]
+2018-03-02 15:38:54 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (157e0f7c5a01115282d3a37eab9e6c4c)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-02 15:38:54 INFO  Homepage:157 - username entered
+2018-03-02 15:38:55 INFO  Homepage:160 - password entered
+2018-03-02 15:39:01 INFO  Homepage:162 - clicked on login
+2018-03-02 15:39:01 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (157e0f7c5a01115282d3a37eab9e6c4c)] -> xpath: //a[@class='login']]
+2018-03-02 15:39:02 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (157e0f7c5a01115282d3a37eab9e6c4c)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-02 15:39:03 INFO  Homepage:157 - username entered
+2018-03-02 15:39:03 INFO  Homepage:160 - password entered
+2018-03-02 15:39:04 INFO  Homepage:162 - clicked on login
+2018-03-02 15:40:43 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (681b22e250b5b87fd00b1fb174be794a)] -> xpath: //a[@class='login']]
+2018-03-02 15:40:44 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (681b22e250b5b87fd00b1fb174be794a)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-02 15:40:45 INFO  Homepage:157 - username entered
+2018-03-02 15:40:45 INFO  Homepage:160 - password entered
+2018-03-02 15:40:46 INFO  Homepage:162 - clicked on login
+2018-03-02 15:40:46 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (681b22e250b5b87fd00b1fb174be794a)] -> xpath: //a[@class='login']]
+2018-03-02 15:40:47 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (681b22e250b5b87fd00b1fb174be794a)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-02 15:40:47 INFO  Homepage:157 - username entered
+2018-03-02 15:40:47 INFO  Homepage:160 - password entered
+2018-03-02 15:40:48 INFO  Homepage:162 - clicked on login
+2018-03-02 15:40:49 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (681b22e250b5b87fd00b1fb174be794a)] -> xpath: //a[@class='login']]
+2018-03-02 15:40:50 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (681b22e250b5b87fd00b1fb174be794a)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-02 15:40:50 INFO  Homepage:157 - username entered
+2018-03-02 15:40:50 INFO  Homepage:160 - password entered
+2018-03-02 15:40:52 INFO  Homepage:162 - clicked on login
+2018-03-02 15:40:52 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (681b22e250b5b87fd00b1fb174be794a)] -> xpath: //a[@class='login']]
+2018-03-02 15:40:53 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (681b22e250b5b87fd00b1fb174be794a)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-02 15:40:53 INFO  Homepage:157 - username entered
+2018-03-02 15:40:54 INFO  Homepage:160 - password entered
+2018-03-02 15:40:55 INFO  Homepage:162 - clicked on login
+2018-03-02 15:41:46 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (949583e06ff5aabed011f4b299961acb)] -> xpath: //a[@class='login']]
+2018-03-02 15:41:47 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (949583e06ff5aabed011f4b299961acb)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-02 15:41:48 INFO  Homepage:157 - username entered
+2018-03-02 15:41:48 INFO  Homepage:160 - password entered
+2018-03-02 15:41:49 INFO  Homepage:162 - clicked on login
+2018-03-02 15:41:49 INFO  TC004_Verifyinglogindemositeexceldata:38 - assertion successfull
+2018-03-02 15:41:49 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (949583e06ff5aabed011f4b299961acb)] -> xpath: //a[@class='login']]
+2018-03-02 15:41:51 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (949583e06ff5aabed011f4b299961acb)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-02 15:41:51 INFO  Homepage:157 - username entered
+2018-03-02 15:41:51 INFO  Homepage:160 - password entered
+2018-03-02 15:41:53 INFO  Homepage:162 - clicked on login
+2018-03-02 15:41:53 INFO  TC004_Verifyinglogindemositeexceldata:38 - assertion successfull
+2018-03-02 15:41:53 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (949583e06ff5aabed011f4b299961acb)] -> xpath: //a[@class='login']]
+2018-03-02 15:41:54 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (949583e06ff5aabed011f4b299961acb)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-02 15:41:55 INFO  Homepage:157 - username entered
+2018-03-02 15:41:55 INFO  Homepage:160 - password entered
+2018-03-02 15:41:56 INFO  Homepage:162 - clicked on login
+2018-03-02 15:41:56 INFO  TC004_Verifyinglogindemositeexceldata:38 - assertion successfull
+2018-03-02 15:41:56 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (949583e06ff5aabed011f4b299961acb)] -> xpath: //a[@class='login']]
+2018-03-02 15:41:57 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (949583e06ff5aabed011f4b299961acb)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-02 15:41:58 INFO  Homepage:157 - username entered
+2018-03-02 15:41:58 INFO  Homepage:160 - password entered
+2018-03-02 15:41:59 INFO  Homepage:162 - clicked on login
+2018-03-02 15:41:59 INFO  TC004_Verifyinglogindemositeexceldata:38 - assertion successfull
+2018-03-02 15:46:47 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (9c9368a5e551ced01a7db74abd6c6433)] -> xpath: //a[@class='login']]
+2018-03-02 15:46:48 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (9c9368a5e551ced01a7db74abd6c6433)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-02 15:46:48 INFO  Homepage:157 - username entered
+2018-03-02 15:46:48 INFO  Homepage:160 - password entered
+2018-03-02 15:46:49 INFO  Homepage:162 - clicked on login
+2018-03-02 15:46:49 INFO  TC004_Verifyinglogindemositeexceldata:38 - assertion successfull
+2018-03-02 15:46:50 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (9c9368a5e551ced01a7db74abd6c6433)] -> xpath: //a[@class='login']]
+2018-03-02 15:46:51 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (9c9368a5e551ced01a7db74abd6c6433)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-02 15:46:51 INFO  Homepage:157 - username entered
+2018-03-02 15:46:51 INFO  Homepage:160 - password entered
+2018-03-02 15:46:53 INFO  Homepage:162 - clicked on login
+2018-03-02 15:46:53 INFO  TC004_Verifyinglogindemositeexceldata:38 - assertion successfull
+2018-03-02 15:46:53 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (9c9368a5e551ced01a7db74abd6c6433)] -> xpath: //a[@class='login']]
+2018-03-02 15:46:54 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (9c9368a5e551ced01a7db74abd6c6433)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-02 15:46:55 INFO  Homepage:157 - username entered
+2018-03-02 15:46:55 INFO  Homepage:160 - password entered
+2018-03-02 15:46:56 INFO  Homepage:162 - clicked on login
+2018-03-02 15:46:56 INFO  TC004_Verifyinglogindemositeexceldata:38 - assertion successfull
+2018-03-02 15:46:56 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (9c9368a5e551ced01a7db74abd6c6433)] -> xpath: //a[@class='login']]
+2018-03-02 15:46:58 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (9c9368a5e551ced01a7db74abd6c6433)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-02 15:46:58 INFO  Homepage:157 - username entered
+2018-03-02 15:46:58 INFO  Homepage:160 - password entered
+2018-03-02 15:47:00 INFO  Homepage:162 - clicked on login
+2018-03-02 15:47:00 INFO  TC004_Verifyinglogindemositeexceldata:38 - assertion successfull
+2018-03-02 16:04:51 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (518dc0fe1a762728c1028671345e961f)] -> xpath: //a[@class='login']]
+2018-03-02 16:04:54 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (518dc0fe1a762728c1028671345e961f)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-02 16:04:54 INFO  Homepage:157 - username entered
+2018-03-02 16:04:54 INFO  Homepage:160 - password entered
+2018-03-02 16:04:56 INFO  Homepage:162 - clicked on login
+2018-03-02 16:04:56 INFO  TC004_Verifyinglogindemositeexceldata:38 - assertion successfull
+2018-03-02 16:04:56 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (518dc0fe1a762728c1028671345e961f)] -> xpath: //a[@class='login']]
+2018-03-02 16:04:58 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (518dc0fe1a762728c1028671345e961f)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-02 16:04:58 INFO  Homepage:157 - username entered
+2018-03-02 16:04:58 INFO  Homepage:160 - password entered
+2018-03-02 16:05:00 INFO  Homepage:162 - clicked on login
+2018-03-02 16:05:00 INFO  TC004_Verifyinglogindemositeexceldata:38 - assertion successfull
+2018-03-02 16:05:00 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (518dc0fe1a762728c1028671345e961f)] -> xpath: //a[@class='login']]
+2018-03-02 16:05:01 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (518dc0fe1a762728c1028671345e961f)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-02 16:05:01 INFO  Homepage:157 - username entered
+2018-03-02 16:05:02 INFO  Homepage:160 - password entered
+2018-03-02 16:05:03 INFO  Homepage:162 - clicked on login
+2018-03-02 16:05:03 INFO  TC004_Verifyinglogindemositeexceldata:38 - assertion successfull
+2018-03-02 16:05:03 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (518dc0fe1a762728c1028671345e961f)] -> xpath: //a[@class='login']]
+2018-03-02 16:05:04 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (518dc0fe1a762728c1028671345e961f)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-02 16:05:05 INFO  Homepage:157 - username entered
+2018-03-02 16:05:05 INFO  Homepage:160 - password entered
+2018-03-02 16:05:06 INFO  Homepage:162 - clicked on login
+2018-03-02 16:05:06 INFO  TC004_Verifyinglogindemositeexceldata:38 - assertion successfull
+2018-03-02 16:10:17 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (a87ca728bb52e7b761ddd6a5dc26292b)] -> xpath: //a[@class='login']]
+2018-03-02 16:10:19 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (a87ca728bb52e7b761ddd6a5dc26292b)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-02 16:10:19 INFO  Homepage:157 - username entered
+2018-03-02 16:10:19 INFO  Homepage:160 - password entered
+2018-03-02 16:10:20 INFO  Homepage:162 - clicked on login
+2018-03-02 16:10:21 INFO  TC004_Verifyinglogindemositeexceldata:38 - assertion successfull
+2018-03-02 16:10:21 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (a87ca728bb52e7b761ddd6a5dc26292b)] -> xpath: //a[@class='login']]
+2018-03-02 16:10:22 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (a87ca728bb52e7b761ddd6a5dc26292b)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-02 16:10:23 INFO  Homepage:157 - username entered
+2018-03-02 16:10:23 INFO  Homepage:160 - password entered
+2018-03-02 16:10:24 INFO  Homepage:162 - clicked on login
+2018-03-02 16:10:24 INFO  TC004_Verifyinglogindemositeexceldata:38 - assertion successfull
+2018-03-02 16:10:25 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (a87ca728bb52e7b761ddd6a5dc26292b)] -> xpath: //a[@class='login']]
+2018-03-02 16:10:26 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (a87ca728bb52e7b761ddd6a5dc26292b)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-02 16:10:26 INFO  Homepage:157 - username entered
+2018-03-02 16:10:26 INFO  Homepage:160 - password entered
+2018-03-02 16:10:27 INFO  Homepage:162 - clicked on login
+2018-03-02 16:10:28 INFO  TC004_Verifyinglogindemositeexceldata:38 - assertion successfull
+2018-03-02 16:10:28 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (a87ca728bb52e7b761ddd6a5dc26292b)] -> xpath: //a[@class='login']]
+2018-03-02 16:10:29 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (a87ca728bb52e7b761ddd6a5dc26292b)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-02 16:10:29 INFO  Homepage:157 - username entered
+2018-03-02 16:10:29 INFO  Homepage:160 - password entered
+2018-03-02 16:10:30 INFO  Homepage:162 - clicked on login
+2018-03-02 16:10:31 INFO  TC004_Verifyinglogindemositeexceldata:38 - assertion successfull
+2018-03-02 16:13:51 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (cd73783d2a616781a88bc58b3ddda16d)] -> xpath: //a[@class='login']]
+2018-03-02 16:13:52 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (cd73783d2a616781a88bc58b3ddda16d)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-02 16:13:52 INFO  Homepage:157 - username entered
+2018-03-02 16:13:52 INFO  Homepage:160 - password entered
+2018-03-02 16:13:59 INFO  Homepage:162 - clicked on login
+2018-03-02 16:13:59 INFO  TC004_Verifyinglogindemositeexceldata:39 - assertion successfull
+2018-03-02 16:13:59 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (cd73783d2a616781a88bc58b3ddda16d)] -> xpath: //a[@class='login']]
+2018-03-02 16:14:01 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (cd73783d2a616781a88bc58b3ddda16d)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-02 16:14:01 INFO  Homepage:157 - username entered
+2018-03-02 16:14:01 INFO  Homepage:160 - password entered
+2018-03-02 16:14:03 INFO  Homepage:162 - clicked on login
+2018-03-02 16:14:03 INFO  TC004_Verifyinglogindemositeexceldata:39 - assertion successfull
+2018-03-02 16:14:03 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (cd73783d2a616781a88bc58b3ddda16d)] -> xpath: //a[@class='login']]
+2018-03-02 16:14:04 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (cd73783d2a616781a88bc58b3ddda16d)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-02 16:14:05 INFO  Homepage:157 - username entered
+2018-03-02 16:14:05 INFO  Homepage:160 - password entered
+2018-03-02 16:14:06 INFO  Homepage:162 - clicked on login
+2018-03-02 16:14:06 INFO  TC004_Verifyinglogindemositeexceldata:39 - assertion successfull
+2018-03-02 16:14:06 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (cd73783d2a616781a88bc58b3ddda16d)] -> xpath: //a[@class='login']]
+2018-03-02 16:14:08 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (cd73783d2a616781a88bc58b3ddda16d)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-02 16:14:08 INFO  Homepage:157 - username entered
+2018-03-02 16:14:08 INFO  Homepage:160 - password entered
+2018-03-02 16:14:09 INFO  Homepage:162 - clicked on login
+2018-03-02 16:14:09 INFO  TC004_Verifyinglogindemositeexceldata:39 - assertion successfull
+2018-03-02 17:00:48 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (032ff232a2f315dd52ee4232bcde40e1)] -> xpath: //a[@class='login']]
+2018-03-02 17:00:50 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (032ff232a2f315dd52ee4232bcde40e1)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-02 17:00:50 INFO  Homepage:157 - username entered
+2018-03-02 17:00:50 INFO  Homepage:160 - password entered
+2018-03-02 17:00:51 INFO  Homepage:162 - clicked on login
+2018-03-02 17:00:51 INFO  TC004_Verifyinglogindemositeexceldata:39 - assertion successfull
+2018-03-02 17:00:51 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (032ff232a2f315dd52ee4232bcde40e1)] -> xpath: //a[@class='login']]
+2018-03-02 17:00:53 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (032ff232a2f315dd52ee4232bcde40e1)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-02 17:00:53 INFO  Homepage:157 - username entered
+2018-03-02 17:00:53 INFO  Homepage:160 - password entered
+2018-03-02 17:00:55 INFO  Homepage:162 - clicked on login
+2018-03-02 17:00:55 INFO  TC004_Verifyinglogindemositeexceldata:39 - assertion successfull
+2018-03-02 17:00:56 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (032ff232a2f315dd52ee4232bcde40e1)] -> xpath: //a[@class='login']]
+2018-03-02 17:00:57 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (032ff232a2f315dd52ee4232bcde40e1)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-02 17:00:57 INFO  Homepage:157 - username entered
+2018-03-02 17:00:57 INFO  Homepage:160 - password entered
+2018-03-02 17:00:59 INFO  Homepage:162 - clicked on login
+2018-03-02 17:00:59 INFO  TC004_Verifyinglogindemositeexceldata:39 - assertion successfull
+2018-03-02 17:00:59 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (032ff232a2f315dd52ee4232bcde40e1)] -> xpath: //a[@class='login']]
+2018-03-02 17:01:01 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (032ff232a2f315dd52ee4232bcde40e1)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-02 17:01:01 INFO  Homepage:157 - username entered
+2018-03-02 17:01:01 INFO  Homepage:160 - password entered
+2018-03-02 17:01:03 INFO  Homepage:162 - clicked on login
+2018-03-02 17:01:03 INFO  TC004_Verifyinglogindemositeexceldata:39 - assertion successfull
+2018-03-02 17:02:21 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (ad17ef8e9128968436a3d0827e0dab54)] -> xpath: //a[@class='login']]
+2018-03-02 17:02:23 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (ad17ef8e9128968436a3d0827e0dab54)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-02 17:02:23 INFO  Homepage:157 - username entered
+2018-03-02 17:02:23 INFO  Homepage:160 - password entered
+2018-03-02 17:02:24 INFO  Homepage:162 - clicked on login
+2018-03-02 17:02:24 INFO  TC004_Verifyinglogindemositeexceldata:39 - assertion successfull
+2018-03-02 17:02:24 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (ad17ef8e9128968436a3d0827e0dab54)] -> xpath: //a[@class='login']]
+2018-03-02 17:02:26 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (ad17ef8e9128968436a3d0827e0dab54)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-02 17:02:26 INFO  Homepage:157 - username entered
+2018-03-02 17:02:27 INFO  Homepage:160 - password entered
+2018-03-02 17:02:28 INFO  Homepage:162 - clicked on login
+2018-03-02 17:02:29 INFO  TC004_Verifyinglogindemositeexceldata:39 - assertion successfull
+2018-03-02 17:02:29 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (ad17ef8e9128968436a3d0827e0dab54)] -> xpath: //a[@class='login']]
+2018-03-02 17:02:30 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (ad17ef8e9128968436a3d0827e0dab54)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-02 17:02:30 INFO  Homepage:157 - username entered
+2018-03-02 17:02:30 INFO  Homepage:160 - password entered
+2018-03-02 17:02:32 INFO  Homepage:162 - clicked on login
+2018-03-02 17:02:32 INFO  TC004_Verifyinglogindemositeexceldata:39 - assertion successfull
+2018-03-02 17:02:32 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (ad17ef8e9128968436a3d0827e0dab54)] -> xpath: //a[@class='login']]
+2018-03-02 17:02:34 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (ad17ef8e9128968436a3d0827e0dab54)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-02 17:02:34 INFO  Homepage:157 - username entered
+2018-03-02 17:02:34 INFO  Homepage:160 - password entered
+2018-03-02 17:02:36 INFO  Homepage:162 - clicked on login
+2018-03-02 17:02:36 INFO  TC004_Verifyinglogindemositeexceldata:39 - assertion successfull
+2018-03-08 15:54:44 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-03-08 15:54:44 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (a326b86955adb899127cf503b6cda4c0)] -> xpath: //a[@class='login']]
+2018-03-08 15:54:48 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (a326b86955adb899127cf503b6cda4c0)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-08 15:54:48 INFO  Homepage:113 - Entering user name[[ChromeDriver: chrome on XP (a326b86955adb899127cf503b6cda4c0)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-03-08 15:54:48 INFO  Homepage:115 - Entering user password[[ChromeDriver: chrome on XP (a326b86955adb899127cf503b6cda4c0)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-03-08 15:54:49 INFO  Homepage:117 - clicking on login [[ChromeDriver: chrome on XP (a326b86955adb899127cf503b6cda4c0)] -> xpath: //button[@type='submit' and @name='SubmitLogin']]
+2018-03-08 15:54:51 INFO  TC001_verifyingLoginpageInvalidCredentials:30 - ..............verification ended..............
+2018-03-08 15:54:51 INFO  Homepage:129 - email created successfully[[ChromeDriver: chrome on XP (a326b86955adb899127cf503b6cda4c0)] -> xpath: //input[@type='text'][@id='email_create']]
+2018-03-08 15:54:51 INFO  TC001_verifyingLoginpageInvalidCredentials:10 - entered mailid
+2018-03-08 15:54:58 INFO  Homepage:20 - User information entered successfully
+2018-03-08 15:54:58 INFO  Homepage:22 - Error msg generated successfully
+2018-03-08 15:54:58 INFO  TC001_verifyingLoginpageInvalidCredentials:37 - ........closing the browser............
+2018-03-08 16:04:21 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-03-08 16:04:21 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (351efcc1e3fed4c8b6b4a24fbe2cdb19)] -> xpath: //a[@class='login']]
+2018-03-08 16:04:23 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (351efcc1e3fed4c8b6b4a24fbe2cdb19)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-08 16:04:23 INFO  Homepage:113 - Entering user name[[ChromeDriver: chrome on XP (351efcc1e3fed4c8b6b4a24fbe2cdb19)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-03-08 16:04:23 INFO  Homepage:115 - Entering user password[[ChromeDriver: chrome on XP (351efcc1e3fed4c8b6b4a24fbe2cdb19)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-03-08 16:04:23 INFO  Homepage:117 - clicking on login [[ChromeDriver: chrome on XP (351efcc1e3fed4c8b6b4a24fbe2cdb19)] -> xpath: //button[@type='submit' and @name='SubmitLogin']]
+2018-03-08 16:04:25 INFO  TC001_verifyingLoginpageInvalidCredentials:30 - ..............verification ended..............
+2018-03-08 16:04:25 INFO  Homepage:129 - email created successfully[[ChromeDriver: chrome on XP (351efcc1e3fed4c8b6b4a24fbe2cdb19)] -> xpath: //input[@type='text'][@id='email_create']]
+2018-03-08 16:04:25 INFO  TC001_verifyingLoginpageInvalidCredentials:10 - entered mailid
+2018-03-08 16:04:29 INFO  Homepage:20 - User information entered successfully
+2018-03-08 16:04:29 INFO  TC001_verifyingLoginpageInvalidCredentials:37 - ........closing the browser............
+2018-03-08 16:10:20 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-03-08 16:10:20 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (3667b90a597d29ed615817f49450f190)] -> xpath: //a[@class='login']]
+2018-03-08 16:10:22 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (3667b90a597d29ed615817f49450f190)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-08 16:10:22 INFO  Homepage:113 - Entering user name[[ChromeDriver: chrome on XP (3667b90a597d29ed615817f49450f190)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-03-08 16:10:22 INFO  Homepage:115 - Entering user password[[ChromeDriver: chrome on XP (3667b90a597d29ed615817f49450f190)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-03-08 16:10:22 INFO  Homepage:117 - clicking on login [[ChromeDriver: chrome on XP (3667b90a597d29ed615817f49450f190)] -> xpath: //button[@type='submit' and @name='SubmitLogin']]
+2018-03-08 16:10:24 INFO  TC001_verifyingLoginpageInvalidCredentials:30 - ..............verification ended..............
+2018-03-08 16:10:24 INFO  Homepage:129 - email created successfully[[ChromeDriver: chrome on XP (3667b90a597d29ed615817f49450f190)] -> xpath: //input[@type='text'][@id='email_create']]
+2018-03-08 16:10:24 INFO  TC001_verifyingLoginpageInvalidCredentials:10 - entered mailid
+2018-03-08 16:10:29 INFO  Homepage:20 - User information entered successfully
+2018-03-08 16:10:29 INFO  Homepage:22 - Error msg generated successfully
+2018-03-08 16:10:29 INFO  TC001_verifyingLoginpageInvalidCredentials:37 - ........closing the browser............
+2018-03-08 16:11:36 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-03-08 16:11:36 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (8594575e1329945a3c1933323fea005b)] -> xpath: //a[@class='login']]
+2018-03-08 16:11:38 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (8594575e1329945a3c1933323fea005b)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-08 16:11:38 INFO  Homepage:113 - Entering user name[[ChromeDriver: chrome on XP (8594575e1329945a3c1933323fea005b)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-03-08 16:11:38 INFO  Homepage:115 - Entering user password[[ChromeDriver: chrome on XP (8594575e1329945a3c1933323fea005b)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-03-08 16:11:38 INFO  Homepage:117 - clicking on login [[ChromeDriver: chrome on XP (8594575e1329945a3c1933323fea005b)] -> xpath: //button[@type='submit' and @name='SubmitLogin']]
+2018-03-08 16:11:40 INFO  TC001_verifyingLoginpageInvalidCredentials:30 - ..............verification ended..............
+2018-03-08 16:11:40 INFO  Homepage:129 - email created successfully[[ChromeDriver: chrome on XP (8594575e1329945a3c1933323fea005b)] -> xpath: //input[@type='text'][@id='email_create']]
+2018-03-08 16:11:40 INFO  TC001_verifyingLoginpageInvalidCredentials:10 - entered mailid
+2018-03-08 16:11:46 INFO  Homepage:20 - User information entered successfully
+2018-03-08 16:11:46 INFO  TC001_verifyingLoginpageInvalidCredentials:37 - ........closing the browser............
+2018-03-08 16:21:57 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-03-08 16:21:57 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (217e75ab5e040760ee8f289b29593d83)] -> xpath: //a[@class='login']]
+2018-03-08 16:22:00 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (217e75ab5e040760ee8f289b29593d83)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-08 16:22:00 INFO  Homepage:113 - Entering user name[[ChromeDriver: chrome on XP (217e75ab5e040760ee8f289b29593d83)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-03-08 16:22:00 INFO  Homepage:115 - Entering user password[[ChromeDriver: chrome on XP (217e75ab5e040760ee8f289b29593d83)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-03-08 16:22:00 INFO  Homepage:117 - clicking on login [[ChromeDriver: chrome on XP (217e75ab5e040760ee8f289b29593d83)] -> xpath: //button[@type='submit' and @name='SubmitLogin']]
+2018-03-08 16:22:01 INFO  TC001_verifyingLoginpageInvalidCredentials:30 - ..............verification ended..............
+2018-03-08 16:22:01 INFO  Homepage:129 - email created successfully[[ChromeDriver: chrome on XP (217e75ab5e040760ee8f289b29593d83)] -> xpath: //input[@type='text'][@id='email_create']]
+2018-03-08 16:22:01 INFO  TC001_verifyingLoginpageInvalidCredentials:10 - entered mailid
+2018-03-08 16:22:08 INFO  Homepage:20 - User information entered successfully
+2018-03-08 16:22:08 INFO  TC001_verifyingLoginpageInvalidCredentials:37 - ........closing the browser............
+2018-03-08 16:23:25 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-03-08 16:23:25 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (232abedcd2ef5a53dbdb425d75ce230b)] -> xpath: //a[@class='login']]
+2018-03-08 16:23:28 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (232abedcd2ef5a53dbdb425d75ce230b)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-08 16:23:28 INFO  Homepage:113 - Entering user name[[ChromeDriver: chrome on XP (232abedcd2ef5a53dbdb425d75ce230b)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-03-08 16:23:28 INFO  Homepage:115 - Entering user password[[ChromeDriver: chrome on XP (232abedcd2ef5a53dbdb425d75ce230b)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-03-08 16:23:28 INFO  Homepage:117 - clicking on login [[ChromeDriver: chrome on XP (232abedcd2ef5a53dbdb425d75ce230b)] -> xpath: //button[@type='submit' and @name='SubmitLogin']]
+2018-03-08 16:23:30 INFO  TC001_verifyingLoginpageInvalidCredentials:30 - ..............verification ended..............
+2018-03-08 16:23:30 INFO  Homepage:129 - email created successfully[[ChromeDriver: chrome on XP (232abedcd2ef5a53dbdb425d75ce230b)] -> xpath: //input[@type='text'][@id='email_create']]
+2018-03-08 16:23:30 INFO  TC001_verifyingLoginpageInvalidCredentials:10 - entered mailid
+2018-03-08 16:23:34 INFO  Homepage:20 - User information entered successfully
+2018-03-08 16:23:35 INFO  TC001_verifyingLoginpageInvalidCredentials:37 - ........closing the browser............
+2018-03-08 16:26:57 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-03-08 16:26:57 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (74ffb85df0aecc8d53095a3969e4e39f)] -> xpath: //a[@class='login']]
+2018-03-08 16:26:59 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (74ffb85df0aecc8d53095a3969e4e39f)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-08 16:26:59 INFO  Homepage:113 - Entering user name[[ChromeDriver: chrome on XP (74ffb85df0aecc8d53095a3969e4e39f)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-03-08 16:26:59 INFO  Homepage:115 - Entering user password[[ChromeDriver: chrome on XP (74ffb85df0aecc8d53095a3969e4e39f)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-03-08 16:27:00 INFO  Homepage:117 - clicking on login [[ChromeDriver: chrome on XP (74ffb85df0aecc8d53095a3969e4e39f)] -> xpath: //button[@type='submit' and @name='SubmitLogin']]
+2018-03-08 16:27:01 INFO  TC001_verifyingLoginpageInvalidCredentials:30 - ..............verification ended..............
+2018-03-08 16:27:01 INFO  Homepage:129 - email created successfully[[ChromeDriver: chrome on XP (74ffb85df0aecc8d53095a3969e4e39f)] -> xpath: //input[@type='text'][@id='email_create']]
+2018-03-08 16:27:01 INFO  TC001_verifyingLoginpageInvalidCredentials:10 - entered mailid
+2018-03-08 16:27:07 INFO  Homepage:20 - User information entered successfully
+2018-03-08 16:27:07 INFO  Homepage:22 - Error msg generated successfully
+2018-03-08 16:27:07 INFO  TC001_verifyingLoginpageInvalidCredentials:37 - ........closing the browser............
+2018-03-08 16:32:16 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-03-08 16:32:16 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (460458e390e3a9a7e4ffd80207df771e)] -> xpath: //a[@class='login']]
+2018-03-08 16:32:19 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (460458e390e3a9a7e4ffd80207df771e)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-08 16:32:19 INFO  Homepage:113 - Entering user name[[ChromeDriver: chrome on XP (460458e390e3a9a7e4ffd80207df771e)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-03-08 16:32:20 INFO  Homepage:115 - Entering user password[[ChromeDriver: chrome on XP (460458e390e3a9a7e4ffd80207df771e)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-03-08 16:32:20 INFO  Homepage:117 - clicking on login [[ChromeDriver: chrome on XP (460458e390e3a9a7e4ffd80207df771e)] -> xpath: //button[@type='submit' and @name='SubmitLogin']]
+2018-03-08 16:32:21 INFO  TC001_verifyingLoginpageInvalidCredentials:30 - ..............verification ended..............
+2018-03-08 16:32:21 INFO  Homepage:129 - email created successfully[[ChromeDriver: chrome on XP (460458e390e3a9a7e4ffd80207df771e)] -> xpath: //input[@type='text'][@id='email_create']]
+2018-03-08 16:32:21 INFO  TC001_verifyingLoginpageInvalidCredentials:10 - entered mailid
+2018-03-08 16:32:38 INFO  Homepage:20 - User information entered successfully
+2018-03-08 16:32:38 INFO  Homepage:22 - Error msg generated successfully
+2018-03-08 16:32:38 INFO  TC001_verifyingLoginpageInvalidCredentials:37 - ........closing the browser............
+2018-03-08 16:36:28 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-03-08 16:36:28 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (f148bef2c04d38ef3526fdcf23becd08)] -> xpath: //a[@class='login']]
+2018-03-08 16:36:31 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (f148bef2c04d38ef3526fdcf23becd08)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-08 16:36:31 INFO  Homepage:113 - Entering user name[[ChromeDriver: chrome on XP (f148bef2c04d38ef3526fdcf23becd08)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-03-08 16:36:31 INFO  Homepage:115 - Entering user password[[ChromeDriver: chrome on XP (f148bef2c04d38ef3526fdcf23becd08)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-03-08 16:36:31 INFO  Homepage:117 - clicking on login [[ChromeDriver: chrome on XP (f148bef2c04d38ef3526fdcf23becd08)] -> xpath: //button[@type='submit' and @name='SubmitLogin']]
+2018-03-08 16:36:32 INFO  TC001_verifyingLoginpageInvalidCredentials:30 - ..............verification ended..............
+2018-03-08 16:36:33 INFO  Homepage:129 - email created successfully[[ChromeDriver: chrome on XP (f148bef2c04d38ef3526fdcf23becd08)] -> xpath: //input[@type='text'][@id='email_create']]
+2018-03-08 16:36:33 INFO  TC001_verifyingLoginpageInvalidCredentials:10 - entered mailid
+2018-03-08 16:36:39 INFO  Homepage:20 - User information entered successfully
+2018-03-08 16:36:39 INFO  Homepage:22 - Error msg generated successfully
+2018-03-08 16:36:39 INFO  TC001_verifyingLoginpageInvalidCredentials:37 - ........closing the browser............
+2018-03-08 16:40:37 INFO  TC001_verifyingLoginpageInvalidCredentials:24 - ..........verification started..........
+2018-03-08 16:40:37 INFO  Homepage:105 - clicked on signin[[ChromeDriver: chrome on XP (dc3b5da9613fd817ee65be0f6bd8b527)] -> xpath: //a[@class='login']]
+2018-03-08 16:40:39 INFO  Homepage:107 - This is the heading for users[[ChromeDriver: chrome on XP (dc3b5da9613fd817ee65be0f6bd8b527)] -> xpath: //div/form/h3[text()='Already registered?']]
+2018-03-08 16:40:39 INFO  Homepage:113 - Entering user name[[ChromeDriver: chrome on XP (dc3b5da9613fd817ee65be0f6bd8b527)] -> xpath: //div/input[@type='text'][@id='email']]
+2018-03-08 16:40:39 INFO  Homepage:115 - Entering user password[[ChromeDriver: chrome on XP (dc3b5da9613fd817ee65be0f6bd8b527)] -> xpath: //div/span/input[@type='password'][@id='passwd']]
+2018-03-08 16:40:40 INFO  Homepage:117 - clicking on login [[ChromeDriver: chrome on XP (dc3b5da9613fd817ee65be0f6bd8b527)] -> xpath: //button[@type='submit' and @name='SubmitLogin']]
+2018-03-08 16:40:42 INFO  TC001_verifyingLoginpageInvalidCredentials:30 - ..............verification ended..............
+2018-03-08 16:40:42 INFO  Homepage:129 - email created successfully[[ChromeDriver: chrome on XP (dc3b5da9613fd817ee65be0f6bd8b527)] -> xpath: //input[@type='text'][@id='email_create']]
+2018-03-08 16:40:42 INFO  TC001_verifyingLoginpageInvalidCredentials:10 - entered mailid
+2018-03-08 16:40:49 INFO  Homepage:20 - User information entered successfully
+2018-03-08 16:40:49 INFO  Homepage:22 - Error msg generated successfully
+2018-03-08 16:40:49 INFO  TC001_verifyingLoginpageInvalidCredentials:37 - ........closing the browser............
+2018-03-10 16:09:13 INFO  TC005_VerifyingNavigationsMenu:26 - user selected product has been clicked
